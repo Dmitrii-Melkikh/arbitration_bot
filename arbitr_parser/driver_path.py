@@ -1,0 +1,1 @@
+path = "C:/Users/Дмитрий/Desktop/Арбитр бот/arbitr_parser/chromedriver.exe"
